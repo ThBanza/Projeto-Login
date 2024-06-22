@@ -9,7 +9,7 @@
  Tv: acima de 1200px
  */
 
- @media screen and (min-width: 768px) and (max-width: 992px) {
+ @media screen and (min-width: 600px) and (max-width: 992px) {
     body{
         background-image: linear-gradient(to top, #49a09d, #5f2c82);
     }
