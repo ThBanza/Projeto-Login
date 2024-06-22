@@ -55,3 +55,7 @@ section#login > div#formulario {
   display: block;
   padding: 10px;
 }
+
+form > input[type=submit] {
+  display: block;
+}
